@@ -30,7 +30,7 @@
 
 ## Screenshot
 
-|  Primera Imagen(Icono diferente) | Segunda Imagen(Fuente diferente)  |    
+|  Primera Imagen| Segunda Imagen  |    
 | :------------: | :------------: | 
 |  <img src="https://i.postimg.cc/RZKpZ0cc/Whats-App-Image-2023-10-08-at-11-52-28-PM.jpg" width="200"/> | <img src="https://i.postimg.cc/Xvx8rBXy/Whats-App-Image-2023-10-08-at-11-52-28-PM-1.jpg" width="200"/>  |
 
